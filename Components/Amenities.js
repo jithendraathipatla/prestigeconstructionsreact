@@ -110,7 +110,7 @@ const Amenities = props => {
                 border:2px solid #a88944;
                 padding: 10px;
                 border-radius: 10px;
-                background: linear-gradient(180deg,rgba(255,0,0,.06),rgba(255,255,0,.18));
+                background: linear-gradient(180deg,rgba(255,0,0,.06),rgba(255,255,0,.18))
               }
               
             `}
