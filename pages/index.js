@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Layout from '../Components/Layout';
 import Herocomponent from '../Components/hero';
-import FirstHero from '../Asserts/images/firstherocomponent.jpg';
+import FirstHero from '../static/firstherocomponent.jpg';
 import Properties from '../Components/projects';
 
 const Home = () => (
