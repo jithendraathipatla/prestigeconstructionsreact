@@ -17,6 +17,7 @@
     "react-icons": "^3.9.0"
   },
   "devDependencies": {
-    "babel-install": "2.1.0"
+    "babel-install": "2.1.0",
+    "file-loader": "^5.1.0"
   }
 }
