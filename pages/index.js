@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Layout from '../Components/Layout';
 import Herocomponent from '../Components/hero';
-import FirstHero from '../static/firstherocomponent.jpg';
+
 import Properties from '../Components/projects';
 
 const Home = () => (
@@ -11,7 +11,7 @@ const Home = () => (
     </Head>
 
     <Layout>
-      <Herocomponent img={FirstHero}/>
+     
       <Properties/>
     </Layout>
    
