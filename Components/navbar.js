@@ -1,4 +1,4 @@
-import main from '../Asserts/mainlogo.png';
+import main from '../static/mainlogo.png';
 import Link from 'next/link';
 
 const NNavbar = () => {
